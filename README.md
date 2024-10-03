@@ -10,6 +10,11 @@ The front end is built using HTML for structure, CSS for styling, and JavaScript
 ![Screenshot 2024-10-03 151536](https://github.com/user-attachments/assets/0dca0317-4609-4b93-a3c9-a1bbd661900c)
 
 
+![Screenshot (251)](https://github.com/user-attachments/assets/71599886-68ab-452a-9340-096f91192be8)
+![Screenshot (250)](https://github.com/user-attachments/assets/c9c38c58-ee43-449a-a6fd-940bd7f87932)
+![Screenshot (249)](https://github.com/user-attachments/assets/4228d13e-06d9-45fa-8118-46bc565f2876)
+
+
 
 LINK OF TO DO LIST 
 http://127.0.0.1:5500/index.html
